@@ -1,3 +1,3 @@
 # DEMO
 
-Vercel Link: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Vercel Link: [https://react-simple-task-management-old.vercel.app/)](https://react-simple-task-management-old.vercel.app/))
